@@ -63,10 +63,9 @@ Features include:
 
 ## 👥 Team Nova  
 - **Team Leader / Project Manager:** Amartya Majumder  
-- **Backend Developers:** Surya + [New Backend Member]  
-- **Frontend Developers:** [Teammate 1], [Teammate 2]  
-- **UI/UX Designer:** [Teammate]  
-- **Research & Documentation:** [Teammate]  
+- **Backend Developers:** Surya + Harsh Mishra
+- **UI/UX Designers & Frontend Developers:** Ayush Arora, Krishna Bhatia, Amartya  
+- **Research & Documentation:** Vaibhavi Singh
 
 ---
 
